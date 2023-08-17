@@ -4,3 +4,4 @@
 ## [Исследование объявлений о продаже квартир](https://github.com/natkor18/Data_Science_yandex_project/tree/main/sale-of-apartments)
 ## [Рекламный бюджет компании](https://github.com/natkor18/Data_Science_yandex_project/tree/main/advertising_budget_of_Megaline)
 ## [Сборный проект №1 Прогнозирование успешности компьютерных игр](https://github.com/natkor18/Data_Science_yandex_project/tree/main/predicting-success-game)
+## [Рекомендация тарифов](https://github.com/natkor18/Data_Science_yandex_project/blob/main/recommendation_of_tariffs/readme.md)

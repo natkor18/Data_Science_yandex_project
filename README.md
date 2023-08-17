@@ -6,3 +6,4 @@
 ## [Сборный проект №1 Прогнозирование популярности компьютерных игр](https://github.com/natkor18/Data_Science_yandex_project/tree/main/predicting-success-game)
 ## [Рекомендация тарифов](https://github.com/natkor18/Data_Science_yandex_project/blob/main/recommendation_of_tariffs/readme.md)
 ## [Отток клиентов](https://github.com/natkor18/Data_Science_yandex_project/tree/main/customer_outflow)
+## [Выбор локации для скважины](https://github.com/natkor18/Data_Science_yandex_project/tree/main/choosing-location-well)

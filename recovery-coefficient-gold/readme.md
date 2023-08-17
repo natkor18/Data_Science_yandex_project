@@ -71,7 +71,6 @@
 ## Эффективность обогащения рассчитывается по формуле
 ![image](https://github.com/natkor18/Data_Science_yandex_project/assets/65555577/4090c157-5774-483f-8794-d749a1ee57a7)
 
-
 где:
 - C — доля золота в концентрате после флотации/очистки;
 - F — доля золота в сырье/концентрате до флотации/очистки;
@@ -84,19 +83,23 @@
 - Она похожа на MAE, но выражается не в абсолютных величинах, а в относительных. Почему симметричная? Она одинаково учитывает масштаб и целевого признака, и предсказания.
 
 ## Метрика sMAPE вычисляется так:
-image
+![image](https://github.com/natkor18/Data_Science_yandex_project/assets/65555577/2f03a638-be81-48e6-b63f-8df2453ab451)
+
 
 Обозначения:
-image
+![image](https://github.com/natkor18/Data_Science_yandex_project/assets/65555577/476be424-b4ae-4126-9e96-57d5e094676a)
+
 
 Значение целевого признака для объекта с порядковым номером i в выборке, на которой измеряется качество.
-image
+![image](https://github.com/natkor18/Data_Science_yandex_project/assets/65555577/6690037f-8933-4be5-a9cc-6fb8789ef2e1)
+
 
 Значение предсказания для объекта с порядковым номером i, например, в тестовой выборке.
-image
+![image](https://github.com/natkor18/Data_Science_yandex_project/assets/65555577/9e7bb3d6-51ac-4925-b27a-9326a81856c0)
+
 
 Количество объектов в выборке.
-image
+![image](https://github.com/natkor18/Data_Science_yandex_project/assets/65555577/c6564c3c-5ddf-4720-b545-cac6957d8ead)
 
 Суммирование по всем объектам выборки (i меняется от 1 до N).
 
@@ -105,4 +108,4 @@ image
 - эффективность обогащения финального концентрата final.output.recovery.
 
 Итоговая метрика складывается из двух величин:
-image
+![image](https://github.com/natkor18/Data_Science_yandex_project/assets/65555577/cd5e1d8b-45b5-48ac-bcd0-edfa62d20d06)

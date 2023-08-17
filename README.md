@@ -7,4 +7,4 @@
 ## [Рекомендация тарифов](https://github.com/natkor18/Data_Science_yandex_project/blob/main/recommendation_of_tariffs/readme.md)
 ## [Отток клиентов](https://github.com/natkor18/Data_Science_yandex_project/tree/main/customer_outflow)
 ## [Выбор локации для скважины](https://github.com/natkor18/Data_Science_yandex_project/tree/main/choosing-location-well)
-## [Сборный проет №2. Коэффициент восстановления золота из золотосодержащей руды](https://github.com/natkor18/Data_Science_yandex_project/tree/main/recovery-coefficient-gold)
+## [Сборный проект №2. Коэффициент восстановления золота из золотосодержащей руды](https://github.com/natkor18/Data_Science_yandex_project/tree/main/recovery-coefficient-gold)

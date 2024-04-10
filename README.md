@@ -10,3 +10,4 @@
 ## [Сборный проект №2. Коэффициент восстановления золота из золотосодержащей руды](https://github.com/natkor18/Data_Science_yandex_project/tree/main/recovery-coefficient-gold)
 ## [Защита персональных данных клиентов](https://github.com/natkor18/Data_Science_yandex_project/tree/main/protection-of-personal-data)
 ## [Определение стоимости автомобиля](https://github.com/natkor18/Data_Science_yandex_project/tree/main/cost-of-the-car)
+## [Прогнозирование заказов такси](https://github.com/natkor18/Data_Science_yandex_project/tree/main/forecasting_taxi_orders)

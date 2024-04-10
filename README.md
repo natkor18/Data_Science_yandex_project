@@ -12,3 +12,4 @@
 ## [Определение стоимости автомобиля](https://github.com/natkor18/Data_Science_yandex_project/tree/main/cost-of-the-car)
 ## [Прогнозирование заказов такси](https://github.com/natkor18/Data_Science_yandex_project/tree/main/forecasting_taxi_orders)
 ## [Машинное обучение для текстов - Проект "Викишоп" - классификация токсичных комментариев](https://github.com/natkor18/Data_Science_yandex_project/tree/main/toxic_comments)
+## [Определение возраста покупателей](https://github.com/natkor18/Data_Science_yandex_project/tree/main/determining_age_buyers)

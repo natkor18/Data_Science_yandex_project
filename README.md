@@ -11,3 +11,4 @@
 ## [Защита персональных данных клиентов](https://github.com/natkor18/Data_Science_yandex_project/tree/main/protection-of-personal-data)
 ## [Определение стоимости автомобиля](https://github.com/natkor18/Data_Science_yandex_project/tree/main/cost-of-the-car)
 ## [Прогнозирование заказов такси](https://github.com/natkor18/Data_Science_yandex_project/tree/main/forecasting_taxi_orders)
+## [Машинное обучение для текстов - Проект "Викишоп" - классификация токсичных комментариев](https://github.com/natkor18/Data_Science_yandex_project/tree/main/toxic_comments)
